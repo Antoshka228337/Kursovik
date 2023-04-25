@@ -1,0 +1,84 @@
+<Grid Background="Bisque">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+
+        <Button x:Name="skrit"
+                Content="Авторизованные"
+                Margin="10"
+                Height="20"
+                Width="160"
+                HorizontalAlignment="Left" Click="Button_Click" FontFamily="Arial" FontSize="14"/>
+
+
+
+        <Button Content="Сотрудники"
+                Margin="203,20,0,20"
+                Height="20"
+                Width="160"
+                HorizontalAlignment="Left" FontFamily="Arial" FontSize="14"/>
+
+        <Button Content="Настройки"
+                Margin="594,20,0,20"
+                Height="20"
+                Width="160"
+                HorizontalAlignment="Left" Click="ButtonSet_Click" FontFamily="Arial" FontSize="14"/>
+
+        <Button Content="Рассписание"
+                Margin="400,20,0,20"
+                Height="20"
+                Width="160"
+                HorizontalAlignment="Left" Click="Button_Click_1" FontFamily="Arial" FontSize="14"/>
+
+
+        <DataGrid FontFamily="Arial"
+                  Grid.Row="1"
+                  AutoGenerateColumns="False"
+                  x:Name="UsersGrid2" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Номер" Width="*" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Полное Имя" Width="Auto" Binding="{Binding FullName}"/>
+                <DataGridTextColumn Header="Дата рождения" Width="*" Binding="{Binding Date}"/>
+                <DataGridTextColumn Header="Должность" Width="*" Binding="{Binding Dolzhnost}"/>
+                <DataGridTextColumn Header="Телефон" Width="*" Binding="{Binding Number}"/>
+                <DataGridTextColumn Header="Семья" Width="*" Binding="{Binding Family}"/>
+                <DataGridTextColumn Header="Адрес" Width="*" Binding="{Binding Adress}"/>
+                <DataGridTemplateColumn Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="Edit_Btn_Click" Content="Изменить" VerticalAlignment="Top" Height="20" Background="#FF116ACC" Foreground="White"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="2"
+                        HorizontalAlignment="Center"
+                        Orientation="Horizontal"
+                        VerticalAlignment="Center">
+
+            <Button Height="24"
+                    Click="Add2_Btn_Click"
+                    Content="Добавить"
+                    Width="150" Margin="5" FontFamily="Arial" FontSize="14"/>
+            <Button Height="24"
+                    Click="otchet_Click"
+                    Content="Сформировать отчёт"
+                    Width="150" Margin="5" FontFamily="Arial" FontSize="14"/>
+
+
+
+            <Button x:Name="Btn_Del"
+                    Height="24"
+                    Click="RemoveBtn_Click"
+                    Content="Удалить"
+                    Width="150" FontSize="14" FontFamily="Arial"/>
+
+        </StackPanel>
+        <Image Margin="744,0,0,14" Source="/znachok.png" Width="43" Height="43" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+
+
+
+    </Grid>

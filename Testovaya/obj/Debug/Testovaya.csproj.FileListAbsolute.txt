@@ -1,0 +1,138 @@
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\Testovaya.csproj.AssemblyReference.cache
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\Testovaya.csproj.SuggestedBindingRedirects.cache
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\MainWindow.g.cs
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\App.g.cs
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\Testovaya_Content.g.cs
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\Testovaya_MarkupCompile.cache
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\Testovaya_MarkupCompile.lref
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\bin\Debug\Testovaya.exe.config
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\bin\Debug\Testovaya.exe
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\bin\Debug\Testovaya.pdb
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\bin\Debug\EntityFramework.dll
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\bin\Debug\EntityFramework.SqlServer.dll
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\bin\Debug\EntityFramework.xml
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\bin\Debug\EntityFramework.SqlServer.xml
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\bin\Debug\ru\EntityFramework.resources.dll
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\MainWindow.baml
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\Testovaya.g.resources
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\Testovaya.Properties.Resources.resources
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\Testovaya.csproj.GenerateResource.cache
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\Testovaya.csproj.CoreCompileInputs.cache
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\Testovaya.csproj.CopyComplete
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\Testovaya.exe
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\Testovaya.pdb
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\WelcomePage.g.cs
+D:\ЛПР Данил Павлович С#\23 WPF\Testovaya\obj\Debug\WelcomePage.baml
+D:\Testovaya\bin\Debug\Testovaya.exe.config
+D:\Testovaya\bin\Debug\Testovaya.exe
+D:\Testovaya\bin\Debug\Testovaya.pdb
+D:\Testovaya\bin\Debug\EntityFramework.dll
+D:\Testovaya\bin\Debug\EntityFramework.SqlServer.dll
+D:\Testovaya\bin\Debug\EntityFramework.xml
+D:\Testovaya\bin\Debug\EntityFramework.SqlServer.xml
+D:\Testovaya\bin\Debug\ru\EntityFramework.resources.dll
+D:\Testovaya\obj\Debug\Testovaya.csproj.AssemblyReference.cache
+D:\Testovaya\obj\Debug\Testovaya.csproj.SuggestedBindingRedirects.cache
+D:\Testovaya\obj\Debug\MainWindow.g.cs
+D:\Testovaya\obj\Debug\WelcomePage.g.cs
+D:\Testovaya\obj\Debug\App.g.cs
+D:\Testovaya\obj\Debug\Testovaya_Content.g.cs
+D:\Testovaya\obj\Debug\Testovaya_MarkupCompile.cache
+D:\Testovaya\obj\Debug\Testovaya_MarkupCompile.lref
+D:\Testovaya\obj\Debug\MainWindow.baml
+D:\Testovaya\obj\Debug\WelcomePage.baml
+D:\Testovaya\obj\Debug\Testovaya.g.resources
+D:\Testovaya\obj\Debug\Testovaya.Properties.Resources.resources
+D:\Testovaya\obj\Debug\Testovaya.csproj.GenerateResource.cache
+D:\Testovaya\obj\Debug\Testovaya.csproj.CoreCompileInputs.cache
+D:\Testovaya\obj\Debug\Testovaya.csproj.CopyComplete
+D:\Testovaya\obj\Debug\Testovaya.exe
+D:\Testovaya\obj\Debug\Testovaya.pdb
+D:\Testovaya\obj\Debug\NewUser.g.cs
+D:\Testovaya\obj\Debug\NewUser.baml
+D:\Testovaya\obj\Debug\Settings.g.cs
+D:\Testovaya\obj\Debug\Settings.baml
+D:\Testovaya\obj\Debug\Sotrudniki.g.cs
+D:\Testovaya\obj\Debug\Sotrudniki.baml
+D:\Testovaya\obj\Debug\kapcha.g.cs
+D:\Testovaya\obj\Debug\kapcha.baml
+D:\Testovaya\obj\Debug\Raspisanye.g.cs
+D:\Testovaya\obj\Debug\Raspisanye.baml
+D:\Testovaya\obj\Debug\newSotrudnik.g.cs
+D:\Testovaya\obj\Debug\newSotrudnik.baml
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\bin\Debug\Testovaya.exe.config
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\bin\Debug\Testovaya.exe
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\bin\Debug\Testovaya.pdb
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\bin\Debug\EntityFramework.dll
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\bin\Debug\EntityFramework.xml
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Testovaya.csproj.AssemblyReference.cache
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Testovaya.csproj.SuggestedBindingRedirects.cache
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Testovaya.csproj.ResolveComReference.cache
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\kapcha.g.cs
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\MainWindow.g.cs
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\newSotrudnik.g.cs
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\NewUser.g.cs
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Raspisanye.g.cs
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Settings.g.cs
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Sotrudniki.g.cs
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\WelcomePage.g.cs
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\App.g.cs
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Testovaya_Content.g.cs
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Testovaya_MarkupCompile.cache
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Testovaya_MarkupCompile.lref
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\kapcha.baml
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\MainWindow.baml
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\newSotrudnik.baml
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\NewUser.baml
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Raspisanye.baml
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Settings.baml
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Sotrudniki.baml
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\WelcomePage.baml
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Testovaya.g.resources
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Testovaya.Properties.Resources.resources
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Testovaya.csproj.GenerateResource.cache
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Testovaya.csproj.CoreCompileInputs.cache
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Testovaya.csproj.CopyComplete
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Testovaya.exe
+C:\Users\SerGAY\Desktop\резервные копии\ФИНАЛЬНАЯ\тест отчётиков\Testovaya\obj\Debug\Testovaya.pdb
+D:\КП C#\тест отчётиков\Testovaya\bin\Debug\Testovaya.exe.config
+D:\КП C#\тест отчётиков\Testovaya\bin\Debug\Testovaya.exe
+D:\КП C#\тест отчётиков\Testovaya\bin\Debug\Testovaya.pdb
+D:\КП C#\тест отчётиков\Testovaya\bin\Debug\EntityFramework.dll
+D:\КП C#\тест отчётиков\Testovaya\bin\Debug\EntityFramework.SqlServer.dll
+D:\КП C#\тест отчётиков\Testovaya\bin\Debug\EntityFramework.xml
+D:\КП C#\тест отчётиков\Testovaya\bin\Debug\EntityFramework.SqlServer.xml
+D:\КП C#\тест отчётиков\Testovaya\bin\Debug\ru\EntityFramework.resources.dll
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Testovaya.csproj.AssemblyReference.cache
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Testovaya.csproj.SuggestedBindingRedirects.cache
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Testovaya.csproj.ResolveComReference.cache
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\kapcha.g.cs
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\MainWindow.g.cs
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\newSotrudnik.g.cs
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\NewUser.g.cs
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Raspisanye.g.cs
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Settings.g.cs
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Sotrudniki.g.cs
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\WelcomePage.g.cs
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\App.g.cs
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Testovaya_Content.g.cs
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Testovaya_MarkupCompile.cache
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Testovaya_MarkupCompile.lref
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\kapcha.baml
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\MainWindow.baml
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\newSotrudnik.baml
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\NewUser.baml
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Raspisanye.baml
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Settings.baml
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Sotrudniki.baml
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\WelcomePage.baml
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Testovaya.g.resources
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Testovaya.Properties.Resources.resources
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Testovaya.csproj.GenerateResource.cache
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Testovaya.csproj.CoreCompileInputs.cache
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Testovaya.csproj.CopyComplete
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Testovaya.exe
+D:\КП C#\тест отчётиков\Testovaya\obj\Debug\Testovaya.pdb
